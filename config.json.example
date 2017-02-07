@@ -1,0 +1,6 @@
+{
+  "tokenAPILink": "https://wowtoken.info/snapshot.json",
+  "region": "EU",
+  "slackHookUrl" : "https://hooks.slack.com/services/...",
+  "slackHookName" : "WoW Token"
+}
