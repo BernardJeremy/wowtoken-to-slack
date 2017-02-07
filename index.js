@@ -16,7 +16,6 @@ function sendSlackMessage(price, updatedDate) {
 
   const msgParameters = {
     username: slackName,
-    icon_emoji: 'http://wow.zamimg.com/images/wow/icons/large/wow_token01.jpg',
     text: text,
   };
 
